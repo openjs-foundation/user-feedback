@@ -1,4 +1,4 @@
-This is an adapted version from Contributing.md file used by Community-Committee https://github.com/nodejs/community-committee/blob/master/CONTRIBUTING.md
+This is an adapted version from Contributing.md file used by Community-Committee https://github.com/nodejs/community-committee/blob/HEAD/CONTRIBUTING.md
 
 ## Vocabulary
 
